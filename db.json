@@ -3,14 +3,18 @@
  {
     "userId": 1,
     "id": 1,
-    "title": "Boulvard Pharma",
-    "body": "quia et suscipit"
+    "title": "HJ Hospital",
+    "body": "quia et suscipit",
+    "longitude":"15.329831605915672",
+    "latitude": "-4.340569525217404"
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "Pharma du Peuple",
-    "body": "est rerum tempore "
+    "title": "1113 Immeuble",
+    "body": "est rerum tempore ",
+    "longitude":"15.287226179280225",
+    "latitude": "-4.3111492339962325"
   }
  
 ]
